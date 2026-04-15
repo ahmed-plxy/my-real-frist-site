@@ -730,48 +730,6 @@ select:focus {
   color: #fff;
 }
 
-@media (max-width: 768px) {
-  
-    .header-content {
-        align-items: flex-end;
-        
-        gap: 8px ;
-        flex-direction: column;
-    }
-
-    
-    .brand {
-        min-width: auto !important;
-        display: flex;
-        align-items: flex-end;
-        gap: 8px !important;
-    }
-
-    .title-text {
-        font-size: 1.2rem !important; 
-    }
-
-    .brand-subtitle {
-        display: block !important; 
-    }
-
-    .sticky-progress-bar {
-        padding: 4px 10px !important;
-    }
-
-    .progress-info {
-        font-size: 0.8rem !important;
-        margin-bottom: 4px;
-    }
-
-    .bar-bg {
-        height: 6px; 
-    }
-
-    .container {
-        padding: 15px 12px !important;
-    }
-}
 
 .modal-overlay[hidden] {
   display: none !important;
