@@ -735,7 +735,7 @@ select:focus {
     .header-content {
         padding: 10px 15px !important;
         gap: 10px !important;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: space-between;
     }
 
@@ -750,7 +750,7 @@ select:focus {
     }
 
     .brand-subtitle {
-        display: none; 
+        display: block !important; 
     }
 
     .sticky-progress-bar {
