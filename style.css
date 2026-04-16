@@ -85,7 +85,6 @@ body > * {
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.22);
 }
 .sticky-header {
-  position: s;
   top: 0;
   z-index: 2000;
   background: rgba(5, 8, 22, 0.78);
